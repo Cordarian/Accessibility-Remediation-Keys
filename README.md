@@ -12,7 +12,7 @@ If you look closely at the Reading Order window, each button has an underlined c
 
 2. Open the PDF you want to tag in Adobe, navigate to the Accessibility tab, and select Reading Order.
 3. With ARK running on the taskbar, select what you want to tag, hold down the Alt key, and that underlined letter from the Reading Order window for the element you want to tag it as.
-4. When you want to quit ARK, right-click that taskbar icon and select Exit. Don’t worry too much about the other stuff in that menu, they’re mainly development tools.
+4. When you want to quit ARK, right-click that taskbar icon and select Exit.
 
 That’s it! ARK tags what you’ve selected as that element. Below are the keyboard shortcuts I’ve been using most, since that underlining is hard to see:
 -	Te<ins>x</ins>t/Paragraph: Alt+x
